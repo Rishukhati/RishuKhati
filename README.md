@@ -19,7 +19,3 @@ Right now I'm working on an **Intelligent E-Tender Management System** — a ful
 - Love watching movies and anime in my free time
 - Hit the gym regularly
 - Enjoy traveling and trekking when I get the chance
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rishukhati&show_icons=true&theme=dark&hide_border=true&count_private=true)
